@@ -1,8 +1,7 @@
-
 export default function Home() {
   return (
-    <div>
-
-    </div>
+    <main>
+      <h1>Welcome to My SEO Project</h1>
+    </main>
   );
 }
